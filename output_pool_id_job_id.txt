@@ -1,0 +1,2 @@
+Job created: test_repo_new_2
+ Pool of the job: Group_2
